@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/OneDrive/Desktop/MLOPS/MLOPS_Assignments/02-experiment-tracking/mlruns/0/24623728e8af4f44a3bdf61d2da26773/artifacts
+end_time: 1748340562826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24623728e8af4f44a3bdf61d2da26773
+run_name: marvelous-rat-933
+run_uuid: 24623728e8af4f44a3bdf61d2da26773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748340069168
+status: 4
+tags: []
+user_id: User
